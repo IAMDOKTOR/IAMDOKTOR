@@ -1,5 +1,5 @@
 ### Hi, I'm Alex.
-Interested in .Net development & Machine Learning.
+Interested in .Net development, Azure & Machine Learning.
 
 <!--
 **Allexandrero/allexandrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
