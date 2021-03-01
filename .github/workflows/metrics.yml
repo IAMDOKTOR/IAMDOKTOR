@@ -18,8 +18,6 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, repositories
-          filename: github-metrics.svg
-          optimize: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, batchfile               
           plugin_languages_details: bytes-size, percentage             
