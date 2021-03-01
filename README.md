@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=Allexandrero&hide=pawn&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Allexandrero&hide=pawn&langs_count=8&layout=compact)
  
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
