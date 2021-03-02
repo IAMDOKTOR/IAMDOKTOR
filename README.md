@@ -1,5 +1,6 @@
-<img align="right" src="https://github.com/gyf304/allexandrero/blob/main/github-metrics.svg">
-### Hi, I'm Alex!
+<img align="right" src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">
+
+### Hi there 👋 Alex Here
 
 .Net developer, interested in Azure & Machine Learning.
  
