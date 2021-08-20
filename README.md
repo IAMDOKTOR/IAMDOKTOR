@@ -2,5 +2,5 @@
 
 ### Hi 👋 Alex Here
 
-.Net developer, interested in Azure & Machine Learning.
+Software Engineer, interested in Cloud Development & Machine Learning.
  
