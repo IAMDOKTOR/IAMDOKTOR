@@ -2,5 +2,5 @@
 
 ### Hi 👋 Alex Here
 
-Software Engineer, interested in Cloud Development & Machine Learning.
- 
+Software Engineer, Educational content creator. 
+Interested in Cloud Development & Machine Learning. 
