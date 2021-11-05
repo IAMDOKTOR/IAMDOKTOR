@@ -2,5 +2,5 @@
 
 ### Hi 👋 Alex Here
 
-Software Engineer, Educational content creator.  
+Software Engineer, educational content creator.  
 Interested in Cloud Development & Machine Learning. 
