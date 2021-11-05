@@ -19,7 +19,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories
           plugin_languages: yes
-          plugin_languages_ignored: html, css, batchfile
+          plugin_languages_ignored: html, css, batchfile, Jupyter Notebook, ASP.NET
           plugin_languages_details: bytes-size, percentage
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
