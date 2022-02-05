@@ -7,7 +7,7 @@ Interested in Cloud Development & Machine Learning.
   
 🌱 I’m currently learning to create Artificial Intelligence solutions.  
 👯 I am looking forward to join a company for a challenging AI or ML internship.  
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/alex-andrero), and let's chat!  
+📫 Reach out to me and let's chat and collaborate!  
 
 <a href="https://www.linkedin.com/in/alexandrero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://alex-andrero.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
