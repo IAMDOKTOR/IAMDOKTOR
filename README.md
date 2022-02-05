@@ -4,3 +4,5 @@
 
 Software Engineer, educational content creator.  
 Interested in Cloud Development & Machine Learning. 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/alex_andrero?style=social)
