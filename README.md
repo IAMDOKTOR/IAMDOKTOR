@@ -1,12 +1,11 @@
-# Hi 👋 Alex Here
+## Hi 👋 Alex Here
 
   
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200">
-.NET Software Engineer since 2019.
+.NET Software Engineer since 2019.  
 Interested in Cloud Development & Machine Learning. 
   
 ----  
-
 
 🌱 I’m currently learning to create Artificial Intelligence solutions.  
 👯 I am looking forward to join a company for a challenging AI or ML internship.  
@@ -21,6 +20,28 @@ Interested in Cloud Development & Machine Learning.
 
 ----
 
+  
+### <img src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const alex = {
+    pronounse: "He" | "Him",
+    codeIn: ["C#", "Python", "JavaScript", "Typescript"],
+    askMeAbout: ["WebDev", "Tech", "Machine Learning", "Music"],
+    technologies: {
+        backEnd: {
+            python: ["Flask"],
+            cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
+            javaScript: ["React", "Vue.js"]
+        },
+        devOps: ["Azure", "AWS", "Docker🐳"],
+        databases: ["MS SQL Server", "CosmosDB", "MySql", "MongoDB"]
+    },
+    currentFocus: "Artificial Intelligence internship",
+    hobbies: ["Guitar", "Cooking", "Reading"]
+};
+```
+  
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=alex-andrero&layout=compact)](https://github.com/alex-andrero/alex-andrero)
 
 <img src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">
