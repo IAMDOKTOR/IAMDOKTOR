@@ -1,9 +1,10 @@
 # Hi 👋 Alex Here
 
-----
+  
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200">
 <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&color=3399ff&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;.NET+Developer;Automation+Ambassador;Octopus+(probably);">  
-
+  
+----  
 
   
 🌱 I’m currently learning to create Artificial Intelligence solutions.  
