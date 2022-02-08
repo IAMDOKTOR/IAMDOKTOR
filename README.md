@@ -41,5 +41,5 @@ const alex = {
 };
 ```
   
-<img align='left' src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg" width="200">
+<img align='left' src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg" width="400">
 <img align='right' src="https://media3.giphy.com/media/vufEru9x5pA8ODlWXT/giphy.gif" width="200">
