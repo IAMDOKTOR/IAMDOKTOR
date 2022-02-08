@@ -29,8 +29,8 @@ const alex = {
     askMeAbout: ["WebDev", "Tech", "Machine Learning", "Music"],
     technologies: {
         backEnd: {
-            python: ["Flask"],
             cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
+            python: ["Flask"]
         },
         frontEnd: {
             javaScript: ["React", "Vue.js"]
