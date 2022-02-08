@@ -4,14 +4,12 @@
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200">
 <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&color=3399ff&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;.NET+Developer;Automation+Ambassador;Octopus+(probably);">  
 
-----  
 
   
 🌱 I’m currently learning to create Artificial Intelligence solutions.  
 👯 I am looking forward to join a company for a challenging AI or ML internship.  
 📫 Reach out to me and let's chat and collaborate!  
 
-----
   
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <a href="https://www.linkedin.com/in/alexandrero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
