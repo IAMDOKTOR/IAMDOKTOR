@@ -2,11 +2,12 @@
 
   
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200">
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&color=3399ff&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;.NET+Developer;Automation+Ambassador;Octopus+(probably);">  
+.NET Software Engineer since 2019.
+Interested in Cloud Development & Machine Learning. 
   
 ----  
 
-  
+
 🌱 I’m currently learning to create Artificial Intelligence solutions.  
 👯 I am looking forward to join a company for a challenging AI or ML internship.  
 📫 Reach out to me and let's chat and collaborate!  
