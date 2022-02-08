@@ -42,4 +42,4 @@ const alex = {
 ```
   
 <img src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">
-<img align='right' src="https://media3.giphy.com/media/vufEru9x5pA8ODlWXT/giphy.gif">
+<img align='right' src="https://media3.giphy.com/media/vufEru9x5pA8ODlWXT/giphy.gif" width="200">
