@@ -31,6 +31,8 @@ const alex = {
         backEnd: {
             python: ["Flask"],
             cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
+        },
+        frontEnd: {
             javaScript: ["React", "Vue.js"]
         },
         devOps: ["Azure", "AWS", "Docker🐳"],
