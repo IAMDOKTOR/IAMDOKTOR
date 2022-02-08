@@ -20,7 +20,7 @@ Interested in Cloud Development & Machine Learning.
   
   
   
-### <img src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="70"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const alex = {
@@ -42,4 +42,4 @@ const alex = {
 ```
   
 <img align='left' src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">
-<img align='right' src="https://media3.giphy.com/media/vufEru9x5pA8ODlWXT/giphy.gif" width="200" style="transform:rotate(90deg);">
+<img align="right" src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="150"> 
