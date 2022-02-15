@@ -42,6 +42,8 @@ const alex = {
     hobbies: ["Guitar", "Cooking", "Reading"]
 };
 ```  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-andrero&hide=html,java&layout=compact)](https://github.com/alex-andrero)
   
 <img align='left' src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">  
 <img align="right" src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="250"> 
