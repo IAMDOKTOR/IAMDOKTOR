@@ -38,7 +38,7 @@ const alex = {
         devOps: ["Azure", "AWS", "Docker🐳"],
         databases: ["MS SQL Server", "CosmosDB", "MySql", "MongoDB"]
     },
-    currentFocus: "Artificial Intelligence internship",
+    currentFocus: "Data Science / Data Analysis internship",
     hobbies: ["Guitar", "Cooking", "Reading"]
 };
 ```  
