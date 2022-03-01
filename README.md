@@ -43,8 +43,7 @@ const alex = {
 };
 ```  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-andrero&hide=html,java,jupyter%20notebook,shell,powershell,batchfile,css,aspnet,ruby&layout=compact)](https://github.com/alex-andrero)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-andrero&hide=html,java,jupyter%20notebook,shell,powershell,batchfile,css,aspnet,ruby&layout=compact)](https://github.com/alex-andrero)
 <img align="right" src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="250"> 
   
 <!-- <img align='left' src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">   -->
