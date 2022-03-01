@@ -5,7 +5,7 @@
 .NET Software Engineer since 2019.  
 Interested in Cloud Development & Machine Learning. 
   
-----  
+----   
 
 🌱 I’m currently learning to create Artificial Intelligence solutions.  
 👯 I am looking forward to join a company for a challenging AI or ML internship.  
