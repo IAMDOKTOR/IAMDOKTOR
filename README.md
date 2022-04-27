@@ -36,7 +36,7 @@ const alex = {
             javaScript: ["React", "Vue.js"]
         },
         devOps: ["Azure", "AWS", "Docker🐳"],
-        databases: ["MS SQL Server", "CosmosDB", "MySql", "MongoDB"]
+        databases: ["MS SQL Server", "Cosmos DB", "MySql", "MongoDB"]
     },
     currentFocus: "Data Science / Data Analysis",
     hobbies: ["Guitar", "Cooking", "Reading"]
