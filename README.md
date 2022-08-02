@@ -20,7 +20,7 @@ Interested in Cloud Development & Machine Learning.
   
   
   
-### A little more about me...  
+### A bit more about me...  
 
 ```javascript
 const alex = {
