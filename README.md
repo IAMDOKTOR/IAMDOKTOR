@@ -7,8 +7,8 @@ Interested in Cloud Development & Machine Learning.
   
 ----   
 
-🌱 I’m currently learning to create Artificial Intelligence solutions.  
-👯 I am looking forward to join a company for a challenging AI or ML internship.  
+🌱 I’m currently learning to create better Web solutions.  
+👯 I am looking forward to join Google someday.  
 📫 Reach out to me and let's chat and collaborate!  
 
   
