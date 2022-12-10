@@ -26,20 +26,20 @@ Interested in Cloud Development & Machine Learning.
 const alex = {
     pronounse: "He" | "Him",
     codeIn: ["C#", "Python", "JavaScript", "Typescript"],
-    askMeAbout: ["WebDev", "Tech", "Machine Learning", "Music"],
+    askMeAbout: ["WebDev", "Meditations", "Personal Growth", "Music"],
     technologies: {
         backEnd: {
             cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
             python: ["Flask"]
         },
         frontEnd: {
-            javaScript: ["React", "Vue.js"]
+            javaScript: ["React", "Node.js"]
         },
-        devOps: ["Azure", "AWS", "Docker🐳"],
+        devOps: ["Azure", "AWS", "Docker🐳", "Kafka"],
         databases: ["MS SQL Server", "Cosmos DB", "MySql", "MongoDB"]
     },
     currentFocus: "Data Science / Data Analysis",
-    hobbies: ["Guitar", "Cooking", "Reading"]
+    hobbies: ["Music production", "Marathon running", "Reading"]
 };
 ```  
 
