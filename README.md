@@ -44,7 +44,7 @@ const alex = {
 ```  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMDOKTOR&hide=html,java,jupyter%20notebook,shell,powershell,batchfile,css,aspnet,ruby&layout=compact)](https://github.com/alex-andrero)
-<img align="right" src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="200"> 
+<img align="right" src="https://gifdb.com/images/high/octopus-cartoon-looking-from-side-to-side-lqlp011uanw5me6z.gif" width="200"> 
   
 <!-- <img align='left' src="https://github.com/IAMDOKTOR/IAMDOKTOR/blob/main/github-metrics.svg">   -->
 
