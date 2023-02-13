@@ -9,13 +9,13 @@ Interested in Cloud Development & Machine Learning.
 
 🌱 I’m currently learning to create better Web solutions.  
 👯 I am looking forward to join Google someday.  
-📫 Reach out to me and let's chat and collaborate!  
+📫 Reach out to me for collaboration!  
 
   
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <a href="https://www.linkedin.com/in/alex-andrero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://alex-andrero.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://twitter.com/D_OKTO_R"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/iamthedoktor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:allex.semenovv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   
@@ -24,9 +24,9 @@ Interested in Cloud Development & Machine Learning.
 
 ```javascript
 const alex = {
-    pronounse: "He" | "Him",
+    pronounse: "He" | "They",
     codeIn: ["C#", "Python", "JavaScript", "Typescript"],
-    askMeAbout: ["WebDev", "Meditations", "Personal Growth", "Music"],
+    askMeAbout: ["WebDev", "Meditations", "Fitness", "Music"],
     technologies: {
         backEnd: {
             cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
@@ -43,8 +43,8 @@ const alex = {
 };
 ```  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-andrero&hide=html,java,jupyter%20notebook,shell,powershell,batchfile,css,aspnet,ruby&layout=compact)](https://github.com/alex-andrero)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMDOKTOR&hide=html,java,jupyter%20notebook,shell,powershell,batchfile,css,aspnet,ruby&layout=compact)](https://github.com/alex-andrero)
 <img align="right" src="https://media2.giphy.com/media/Wk1P0F8uleY8nd8YJv/giphy.gif" width="250"> 
   
-<!-- <img align='left' src="https://github.com/Allexandrero/allexandrero/blob/main/github-metrics.svg">   -->
+<!-- <img align='left' src="https://github.com/IAMDOKTOR/IAMDOKTOR/blob/main/github-metrics.svg">   -->
 
