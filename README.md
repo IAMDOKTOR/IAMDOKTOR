@@ -24,7 +24,7 @@ Interested in Cloud Development & Machine Learning.
 
 ```javascript
 const alex = {
-    pronounse: "He" | "They",
+    pronounce: "He" | "They",
     codeIn: ["C#", "Python", "JavaScript", "Typescript"],
     askMeAbout: ["WebDev", "Meditations", "Fitness", "Music"],
     technologies: {
