@@ -1,7 +1,7 @@
 ## Hi 👋 Alex Here
 
 .NET Software Engineer since 2019.  
-Interested in Cloud Development & Machine Learning. 
+Interested in Cloud Development & Machine Learning.  
 Looking forward to join Google someday.
   
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
