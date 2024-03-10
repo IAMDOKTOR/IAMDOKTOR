@@ -10,6 +10,3 @@ Looking forward to join Google someday.
 <a href="https://twitter.com/iamthedoktor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:doktorhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMDOKTOR&hide=html,java,jupyter%20notebook,shell,powershell,batchfile,css,aspnet,ruby&layout=compact)](https://github.com/alex-andrero)
-  
-<!-- <img align='left' src="https://github.com/IAMDOKTOR/IAMDOKTOR/blob/main/github-metrics.svg">   -->
